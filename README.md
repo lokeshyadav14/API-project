@@ -19,7 +19,7 @@ To run the Flask API, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd 'Flask API'
+   cd 'Flask-API'
    ```
 
 3. Install the required dependencies:
