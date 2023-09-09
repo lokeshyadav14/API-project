@@ -20,4 +20,4 @@ EXPOSE 5000
 ENV NAME MyWorld
 
 # Run app.py when the container launches
-CMD ["python", "api.py"]
+CMD ["python", "app.py"]
