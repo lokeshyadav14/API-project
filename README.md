@@ -31,7 +31,7 @@ To run the Flask API, follow these steps:
 4. Start the Flask API:
 
    ```bash
-   python api.py
+   python app.py
    ```
 
 The API will be accessible at `http://localhost:5000`.
