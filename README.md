@@ -1,6 +1,6 @@
 # My Flask API
 
-This folder contains a simple Flask API project.
+This repo contains a simple Flask API project.
 
 ## Description
 
